@@ -8,7 +8,7 @@ then
 	exit 1
 fi
 
-dpkg -i isoftcom-bochs-1.0.deb && \
+dpkg -i bochs.deb && \
 cd / && \
 tar xvf ${PREREQ_DATA}/binutils-x86_64-linux-gnu-2.25.1.tar.bz2
 

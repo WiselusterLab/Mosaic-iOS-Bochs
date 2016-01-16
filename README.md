@@ -14,6 +14,6 @@
 	Disk: At least 17 MB (/) + 120 MB (/var)
 	Note:
 	If you've got ShockDev Team Bochs installed on your device, please remove them in Cydia and reinstall the one provided in the source tree in order to get Mosaic to work correctly. One single bash command should do the thing:
-	```sh
+	```bash
 	dpkg -r com.sh0ckdev.bochs com.sh0ckdev.bochsarmv7
 	```

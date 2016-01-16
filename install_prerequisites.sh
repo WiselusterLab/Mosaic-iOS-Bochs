@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PREREQ_DATA=`pwd`
+PREREQ_DATA=`dirname ${0}`
 
 if [ "${UID}" -ne 0 ];
 then

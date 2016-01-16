@@ -4,7 +4,7 @@ PREREQ_DATA=`dirname ${0}`
 
 if [ "${UID}" -ne 0 ];
 then
-	echo "${0}: error: root privillege required." 1>&2
+	echo "${0}: error: root privilege required." 1>&2
 	exit 1
 fi
 

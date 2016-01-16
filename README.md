@@ -5,7 +5,7 @@ A fork of Mosaic for building and debugging with Bochs on ARM iOS devices.
 Mosaic stands for "Mosaic Operating System for All Imaginable Computers", which is a free, open-source operating system developed by the WiselusterLab team.
 
 ## Requirements
-<b>CPU</b> ARM v6 architecture or higher<br>
+<b><i>CPU</i></b> ARM v6 architecture or higher<br>
 <b>OS</b> iOS 4.2.1 or higher (jailbreaked)<br>
 <b>Software</b> 1. MobileTerminal<br>
           2. coreutils<br>

@@ -10,6 +10,6 @@ fi
 
 cd / && \
 dpkg -i ${PREREQ_DATA}/com.isoftru.bochs-1.0.0-1.deb && \
-tar xvf ${PREREQ_DATA}/binutils-x86_64-linux-gnu-2.25.1-20160115.tar.bz2
+tar xvf ${PREREQ_DATA}/binutils-x86_64-linux-gnu-2.25.1-20160120.tar.bz2
 
 exit ${?}
